@@ -1,0 +1,7 @@
+run main.py for the perceptron graphs
+
+running AdalineGD.py will output the feature weights followed by the accuracy of the prediction.
+
+"Project-Description.pdf" is the description of the homework.
+
+"Report.pdf" is the report of my findings.
